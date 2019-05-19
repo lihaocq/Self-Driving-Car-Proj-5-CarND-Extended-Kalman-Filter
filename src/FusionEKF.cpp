@@ -20,7 +20,7 @@ FusionEKF::FusionEKF() {
 
   // turn on or turn off laser and radar.
   laser_on = true;
-  radar_on = false;
+  radar_on = true;
 
 
   // initializing matrices
